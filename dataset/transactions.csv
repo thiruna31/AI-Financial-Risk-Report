@@ -1,0 +1,7 @@
+amount,transaction_type,vendor,description
+1200,office,Amazon,Office supplies
+9999,unknown,XYZ Corp,Urgent transfer
+45,food,McDonalds,Lunch
+1200,office,Amazon,Office supplies
+7000,unknown,UnknownVendor,Wire transfer urgent
+300,travel,Uber,Trip
